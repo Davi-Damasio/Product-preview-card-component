@@ -1,0 +1,133 @@
+@media only screen and (max-width:  575px)
+{
+html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+}
+#tudo{
+    max-width: 95% !important;
+    min-width: 95% !important;
+    display: block;
+}
+body{
+    align-items: flex-start !important;
+}
+
+#img{
+   
+    width: 500px;
+    min-width: 100%;
+    max-width: 100%;
+    max-height: 350px;
+    min-height: 350px;
+}
+#imagem{
+    border-radius: 15px 15px 0 0 !important;
+    max-height: 350px;
+    min-height: 350px;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+aside h1,p,h2{
+    margin: 10px;
+}
+aside{
+    width: 350px !important;
+}
+
+}
+
+
+
+body{
+    background: hsl(324, 37%, 92%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+}
+p{
+    
+    text-align: left;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    line-height: 20px;
+}
+#titulo{
+    margin-top: 25px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 5px;
+    color: hsl(228, 12%, 48%);
+}
+h1{
+    text-align: left;
+    font-size: 40px;
+    line-height: 95%;
+}
+#promo{
+    font-family: 'Fraunces', serif;
+    color: #3d8168;
+    font-size: 20px;
+    margin-right: 10px;
+ 
+}
+.texto{
+    color: #ffffff; 
+    margin-left: 5px;
+}
+#carrinho{
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+    display: flex;
+    background: #3d8168;
+    align-items: center;
+   text-align: center;    
+   justify-content: center;
+}
+#carrinho:hover{
+    box-shadow: 0 0 10px 0.5px #00ffa2;
+}
+.icone{
+    background: #3d8168;
+        height: 16px;
+        width: 16px;     
+    margin-right: 5px;
+}
+#antigo{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: line-through;
+    font-size: 10px;
+    line-height: 40px;
+    margin-left: 5px;
+}
+#preco{
+    display: flex;
+}
+#img{
+    width: 50%;
+    height: 450px;
+}
+section{
+    height: 100%;
+    display: flex;
+}
+aside
+{
+    
+    margin-left: 30px;
+    width: 240px;
+    height: 50%;
+    text-align: center;
+    align-items: center;
+}
+#imagem{
+
+    border-radius: 15px 0 0 15px;
+}
