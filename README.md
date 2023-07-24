@@ -16,7 +16,7 @@ Essa é uma solução para o projeto [Results summary component challenge on Fro
 
 ## Overview
 Você pode acessar o projeto aqui
-- URL: [Projeto](https://davi-damasio.github.io/Results-summary-component/)
+- URL: [Projeto](https://github.com/Davi-Damasio/Product-preview-card-component)
 ### O desafio
 
 O usuários devem conseguir:
